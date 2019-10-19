@@ -25,7 +25,7 @@ The objective of this project is to develop a new machine learning software mode
 
 * <b>Data Acquisition and Curation</b>
 
-	Find and research sources of data which are relevant to our definition of toxicity in humans. Research and determine which properties of molecules are relevant in the prediction of our classification of toxicity. Select optimal software packages for handling data of this type, and for interfacing them with the Python machine learning libraries we will be using. Perform preprocessing techniques to prepare data for model training.
+	Find and research sources of data which are relevant to our definition of toxicity in humans. Research and determine which properties of molecules are relevant for the prediction of toxicity. Select optimal software packages for handling data of this type, and for interfacing them with the Python machine learning libraries we will be using. Perform preprocessing techniques to prepare data for model training.
 
 * <b>Modality Analysis</b>
 

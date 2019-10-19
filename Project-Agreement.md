@@ -1,5 +1,7 @@
 **Toxicity Modelling**
+
 <img src="https://github.com/DeepCure-UMB-Project-f19/ML_Model/CyanideIon.png" width="200" height="200" />
+
 A Machine Learning Model for Predicting Small Molecule Toxicity Properties in Humans.
 
 #### Motivation

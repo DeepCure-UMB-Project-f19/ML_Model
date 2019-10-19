@@ -1,5 +1,5 @@
 **Toxicity Modelling**
-
+<img src="" width="200" height="200" /> 
 A Machine Learning Model for Predicting Small Molecule Toxicity Properties in Humans.
 
 #### Motivation

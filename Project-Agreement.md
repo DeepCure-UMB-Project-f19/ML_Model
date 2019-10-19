@@ -1,6 +1,6 @@
 <img src="https://github.com/DeepCure-UMB-Project-f19/ML_Model/blob/master/T.png" width="200" height="200" /> 
 
-### <b>Toxicity Modelling</b>
+### <b>Toxicity Modeling</b>
 
 A Machine Learning Model for Predicting Small Molecule Toxicity Properties in Humans.
 

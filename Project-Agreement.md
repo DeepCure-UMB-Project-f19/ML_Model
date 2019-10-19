@@ -1,4 +1,4 @@
-<img src="https://github.com/DeepCure-UMB-Project-f19/ML_Model/blob/master/CyanideIon.png" width="200" height="156" /> 
+<img src="https://github.com/DeepCure-UMB-Project-f19/ML_Model/blob/master/CyanideIontagged.png" width="200" height="156" /> 
 
 ### <b>Toxicity Modeling</b>
 

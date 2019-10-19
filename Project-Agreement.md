@@ -47,7 +47,7 @@ The objective of this project is to develop a new machine learning software mode
     * Comparing results against previous results and existing benchmarks
     * Considering alternative algorithms or
     * Optimizing hyperparameters and features 	  
-<br>
+
 
 * <b>Final Testing</b>
 
